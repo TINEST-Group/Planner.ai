@@ -1,5 +1,5 @@
 
-##Dataset approach
+## Dataset approach
 To address the problem, we initially approached it by simulating and experimenting with a dataset that was gathered through research and synthetically created. Our focus was on analyzing employees
 their tasks (such as the duration of each task), and various operational factors like the gate’s location, including entry points and areas within the premises.
 We dynamically extracted information on employee locations, skills, and their automatic classification.
