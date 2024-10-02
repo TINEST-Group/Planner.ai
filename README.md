@@ -1,3 +1,5 @@
+
+
 # Planner.ai
 ## Dataset approach
 To address the problem, we initially approached it by simulating and experimenting with a dataset that was gathered through research and synthetically created. Our focus was on analyzing employees
@@ -6,8 +8,7 @@ We dynamically extracted information on employee locations, skills, and their au
 The primary objective of our approach is to minimize downtime and enhance the efficiency of work order scheduling.
 
 
-![Capture d’écran 2024-08-25 000528](https://github.com/user-attachments/assets/26ad607a-bf03-409a-bb49-619c028ce4f5)
-
+![image](https://github.com/user-attachments/assets/33c39b49-0225-489e-8f7e-7b011e84f0da)
 
 
 ## AI database agent
