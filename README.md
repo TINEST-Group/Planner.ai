@@ -8,9 +8,6 @@ We dynamically extracted information on employee locations, skills, and their au
 The primary objective of our approach is to minimize downtime and enhance the efficiency of work order scheduling.
 
 
-![image](https://github.com/user-attachments/assets/33c39b49-0225-489e-8f7e-7b011e84f0da)
-
-
 ## AI database agent
 The project involves utilizing an SQLite database to implement a Retrieval-Augmented Generation (RAG) pattern. In this approach, a generative AI will assist in translating natural language queries into SQL code, enabling a seamless interaction between users and the database. The outcome will be the development of a database agent that leverages AI to understand and convert user requests into precise SQL commands, making data retrieval more intuitive and accessible.
 We did an exdperience where you ask hima about the distance and time
@@ -48,7 +45,7 @@ Constraints: Employee availability, task dependencies, location constraints, and
 Variables: Task durations, employee assignments, skill levels, and operational factors.
 By employing techniques from operations research and optimization (e.g., linear programming, integer programming), we can solve for the optimal allocation and scheduling of tasks, minimizing delays and enhancing overall productivity.
 
-
+![image](https://github.com/user-attachments/assets/33c39b49-0225-489e-8f7e-7b011e84f0da)
 
 ## Resources
 huggingface.com, meduim articles, github, deeplearning.ai 
