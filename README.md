@@ -45,10 +45,9 @@ Constraints: Employee availability, task dependencies, location constraints, and
 Variables: Task durations, employee assignments, skill levels, and operational factors.
 By employing techniques from operations research and optimization (e.g., linear programming, integer programming), we can solve for the optimal allocation and scheduling of tasks, minimizing delays and enhancing overall productivity.
 
-![image](https://github.com/user-attachments/assets/33c39b49-0225-489e-8f7e-7b011e84f0da)
 
 ![image](https://github.com/user-attachments/assets/89da8bba-7b1d-49dc-8b17-3cd31be46fc1)
-
+![image](https://github.com/user-attachments/assets/33c39b49-0225-489e-8f7e-7b011e84f0da)
 ## Resources
 huggingface.com, meduim articles, github, deeplearning.ai 
 for research papers : arxiv.com, researchgate.com, paperswithcode.com,nature.com
